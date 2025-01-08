@@ -8,7 +8,7 @@ Ejecuta el siguiente comando para instalar el paquete:
 go get -u  github.com/felipmora49/greetings
 ```
 ## USO 
-Aqui tienes un ejemplo de cómo utlizar el paquete en tu código:
+Aqui tienes un ejemplo de cómo utilizar el paquete en tu código:
 
 ```go
 
@@ -39,4 +39,4 @@ func main(){
 }
 
 ```
-Este es un ejemplo ultizando el paquete "github.com/felipmora49/greetings"
+Este es un ejemplo utilizando el paquete "github.com/felipmora49/greetings"
